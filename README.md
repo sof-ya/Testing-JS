@@ -6,7 +6,7 @@
 - выполненные виды тестирования:
   - функциональное тестирование;
   - оценка удобства интерфейса веб-приложения;
-  - тестирование кросс-браузерности;
+  - тестирование кросс-браузерности.
  
 ____
 
@@ -18,4 +18,4 @@ ____
 - completed types of testing:
   - functional testing;
   - evaluation of the interface and usability of the web application;
-  - cross-browser testing;
+  - cross-browser testing.

@@ -1,4 +1,3 @@
-*ru*
 # Тестирование
 ## Здесь вы можете найти тестирование программ JavaScript.
 ### Структура тестов: 
@@ -11,7 +10,6 @@
  
 ____
 
-*en*
 # Testing-JS
 ## Here you will find tests of JavaScript programs.
 ### Test structure: 

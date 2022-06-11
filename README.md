@@ -13,12 +13,12 @@
   number2 = prompt("Введите второе число");
   alert("Сумма чисел равна "+(Number(number1)+Number(number2)));
   ```
-  - оценка удобства интерфейса веб-приложения: выполняет функции, дизайн не проработан;
+  - оценка удобства интерфейса веб-приложения: выполняет необходимые функции, дизайн стандартный;
   - тестирование кросс-браузерности:
-    - Internet Explorer: проблема с кодировкой
-    - Google Chrome: работает корректно
-    - Yandex Browser: работает корректно
-    - Microsoft Edge: работает корректно 
+    - Internet Explorer: проблема с кодировкой;
+    - Google Chrome: работает корректно;
+    - Yandex Browser: работает корректно;
+    - Microsoft Edge: работает корректно.
 
  
 ____
@@ -26,9 +26,21 @@ ____
 # Testing-JS
 ## Here you will find tests of JavaScript programs.
 ### Test structure: 
-- description of the operation of the software module; 
-- description of the features of testing the software module; 
+- description of the operation of the software module:
+  - the program requests two numbers from the user with dialog boxes and displays this amount;
+  - the program requests two numbers from the user with dialog boxes and displays this product. ; 
+- description of the features of testing the software module: particular attention is paid to the use of Javascript data types; 
 - completed types of testing:
-  - functional testing;
-  - evaluation of the interface and usability of the web application;
-  - cross-browser testing.
+  - functional testing:
+  In this program, the addition of two numbers was performed incorrectly. You can fix the problem this way:
+  ```javascript
+  number1 = prompt("Введите первое число");
+  number2 = prompt("Введите второе число");
+  alert("Сумма чисел равна "+(Number(number1)+Number(number2)));
+  ```
+  - evaluation of the interface and usability of the web application: performs the necessary functions, the design is standard;
+  - cross-browser testing:
+    - Internet Explorer: coding problem;
+    - Google Chrome: works correctly;
+    - Yandex Browser: works correctly;
+    - Microsoft Edge: works correctly.

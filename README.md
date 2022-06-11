@@ -1,5 +1,5 @@
-# Тестирование
-## Здесь вы можете найти тестирование программ JavaScript.
+# Тестирование 1
+## Здесь вы можете найти тестирование первой программы на JavaScript.
 ### Структура тестов: 
 - описание работы программного модуля: 
   - программа диалоговыми окнами запрашивает у пользователя два числа и отображает их сумму; 
@@ -23,8 +23,8 @@
  
 ____
 
-# Testing-JS
-## Here you will find tests of JavaScript programs.
+# Testing-JS 1
+## Here you can find testing of the first JavaScript program.
 ### Test structure: 
 - description of the operation of the software module:
   - the program requests two numbers from the user with dialog boxes and displays this amount;
